@@ -4,17 +4,17 @@ datasheet: https://cdn-learn.adafruit.com/downloads/pdf/introducing-trinket.pdf
 
 Trinket board specs:
 
-*USB bootloader with an LED indicator
-*Mini USB jack for program uploading
-*~5.25K bytes available for use (2.75K taken for the bootloader
-*Available in both 3V and 5V
-*On-board 3.3V or 5.0V power regulator with 150mA output capability and ultra-low dropout
-*Up to 16V input, reverse-polarity protection, thermal and current-limit protection
-*Power with either USB or external output (such as a battery) - it'll automatically switch over
-*On-board green power LED and red (pin #1) LED
-*Reset button for entering the bootloader or restarting the program
-*Hardware I2C / SPI capability for breakout & sensor interfacing
-*Mounting holes, you can easily attach it to breadboard or plug it in your own circuit board!
+* USB bootloader with an LED indicator
+* Mini USB jack for program uploading
+* ~5.25K bytes available for use (2.75K taken for the bootloader
+* Available in both 3V and 5V
+* On-board 3.3V or 5.0V power regulator with 150mA output capability and ultra-low dropout
+* Up to 16V input, reverse-polarity protection, thermal and current-limit protection
+* Power with either USB or external output (such as a battery) - it'll automatically switch over
+* On-board green power LED and red (pin #1) LED
+* Reset button for entering the bootloader or restarting the program
+* Hardware I2C / SPI capability for breakout & sensor interfacing
+* Mounting holes, you can easily attach it to breadboard or plug it in your own circuit board!
 
 ## Prerequisites
 
