@@ -1,6 +1,6 @@
 # Trinket
 
-datasheet: https://cdn-learn.adafruit.com/downloads/pdf/introducing-trinket.pdf
+**Datasheet**: https://cdn-learn.adafruit.com/downloads/pdf/introducing-trinket.pdf
 
 Trinket board specs:
 
